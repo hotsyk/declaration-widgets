@@ -1,1 +1,12 @@
+dj-database-url==0.3.0
+django-cache-url==0.8.0
+django==1.8
+pep8==1.6.2
+Pillow==2.8.1
+pip==6.1.1
+psycopg2==2.6
+setuptools==15.0
+virtualenv==12.1.1
 wheel==0.23.0
+
+-e hg+https://bitbucket.org/schinckel/django-postgres#egg=django-postgres
